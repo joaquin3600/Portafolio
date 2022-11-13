@@ -1,0 +1,4 @@
+installation method：
+
+Copy LoopFlow.aex to：
+ ….\Adobe After Effects CC\Support Files\Plug-ins
